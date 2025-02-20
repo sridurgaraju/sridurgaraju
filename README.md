@@ -1,4 +1,4 @@
-## **👋 Hey there! I’m Sri Durga Raju 🌟**
+# **👋 Hey there! I’m Sri Durga Raju 🌟**
 
 I’m a **Computer & Systems Engineering** enthusiast with a passion for **hardware design**, **verification**, and bringing ideas to life through **FPGA** and **ASIC**. Currently diving into **UVM**, **SystemVerilog**, and **cutting-edge memory systems**!
 
