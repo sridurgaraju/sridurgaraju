@@ -32,4 +32,4 @@ I've taken these courses to enhance my expertise in **hardware verification, UVM
 - LinkedIn: https://www.linkedin.com/in/sri-durga-raju/ 🌐
 
 ## ⚡ Fun Fact:
-I co-authored a paper on **LFSR-based Random Number Generators** 📝, and you can find it on **IEEE Xplore**! Also, I have a habit of turning random ideas into verification projects. So if you need a testbench for anything, hit me up! 🚀
+I co-authored a paper on [**LFSR-based Random Number Generators**](https://ieeexplore.ieee.org/document/9214240) 📝, and you can find it on **IEEE Xplore**! Also, I have a habit of turning random ideas into verification projects. So if you need a testbench for anything, hit me up! 🚀
