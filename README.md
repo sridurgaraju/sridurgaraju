@@ -19,6 +19,7 @@ I’m a **Computer & Systems Engineering** enthusiast with a passion for **hardw
 - **Udemy**: [UVM for Verification Part 2: Projects](https://www.udemy.com/course/uvm-methodology-for-asic-verification/) (Completed: 07/2024)
 - **Udemy**: [SystemVerilog Assertions (SVA) for Newbie](https://www.udemy.com/certificate/UC-4b271f9c-bf90-4158-84a2-cb419cc1cc9e/) (Completed: 08/2024)
 -  **Udemy**: [SystemVerilog Functional Coverage for Newbie](https://www.udemy.com/certificate/UC-bfaa4c85-e6d8-48b1-a6ed-00158f1881c7/) (Completed: 11/2024)
+-  **Intel**: [Using Altera® Quartus® Prime Software](https://www.credly.com/badges/211627b8-0fb4-4308-9edc-06476fce8754/public_url)(Completed: 4/2025)
 
 I've taken these courses to enhance my expertise in **hardware verification, UVM methodology, and FPGA-based prototyping**. Always eager to learn more and apply these skills to real-world projects! 📚
 
