@@ -18,9 +18,11 @@ I’m a **Computer & Systems Engineering** enthusiast with a passion for **hardw
 - **Udemy**: [UVM for Verification Part 1: Fundamentals](https://www.udemy.com/certificate/UC-c3b38464-c854-499e-ac86-a7aa4db2061a/) (Completed: 06/2024)
 - **Udemy**: [UVM for Verification Part 2: Projects](https://www.udemy.com/course/uvm-methodology-for-asic-verification/) (Completed: 07/2024)
 - **Udemy**: [SystemVerilog Assertions (SVA) for Newbie](https://www.udemy.com/certificate/UC-4b271f9c-bf90-4158-84a2-cb419cc1cc9e/) (Completed: 08/2024)
--  **Udemy**: [SystemVerilog Functional Coverage for Newbie](https://www.udemy.com/certificate/UC-bfaa4c85-e6d8-48b1-a6ed-00158f1881c7/) (Completed: 11/2024)
--  **Intel**: [Using Altera® Quartus® Prime Software](https://www.credly.com/badges/211627b8-0fb4-4308-9edc-06476fce8754/public_url)(Completed: 4/2025)
-
+- **Udemy**: [SystemVerilog Functional Coverage for Newbie](https://www.udemy.com/certificate/UC-bfaa4c85-e6d8-48b1-a6ed-00158f1881c7/) (Completed: 11/2024)
+- **Intel**: [Using Altera® Quartus® Prime Software](https://www.credly.com/badges/211627b8-0fb4-4308-9edc-06476fce8754/public_url)(Completed: 4/2025)
+- **Udemy**: [UPF Power Aware Design and Verification](https://www.udemy.com/certificate/UC-ca9a5334-e73a-401d-af5c-a802e050ab87/)(Completed: 4/2025)
+- **MathWorks**: [Simulink Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bebbdcae-05f6-4ba5-9c01-d6f752517c6f&)(Completed: 4/2025)
+  
 I've taken these courses to enhance my expertise in **hardware verification, UVM methodology, and FPGA-based prototyping**. Always eager to learn more and apply these skills to real-world projects! 📚
 
 ## 💞️ Open to Collaborating On:
