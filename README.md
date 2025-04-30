@@ -22,6 +22,7 @@ I’m a **Computer & Systems Engineering** enthusiast with a passion for **hardw
 - **Intel**: [Using Altera® Quartus® Prime Software](https://www.credly.com/badges/211627b8-0fb4-4308-9edc-06476fce8754/public_url)(Completed: 4/2025)
 - **Udemy**: [UPF Power Aware Design and Verification](https://www.udemy.com/certificate/UC-ca9a5334-e73a-401d-af5c-a802e050ab87/)(Completed: 4/2025)
 - **MathWorks**: [Simulink Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=bebbdcae-05f6-4ba5-9c01-d6f752517c6f&)(Completed: 4/2025)
+- **Udemy**:  [Verification Series Part 5: UVM RAL Essentials](https://www.udemy.com/certificate/UC-397e9923-e7d0-48e1-8e73-627488e75f4a/)(Completed: 4/2025)
   
 I've taken these courses to enhance my expertise in **hardware verification, UVM methodology, and FPGA-based prototyping**. Always eager to learn more and apply these skills to real-world projects! 📚
 
