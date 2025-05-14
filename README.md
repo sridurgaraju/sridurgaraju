@@ -25,6 +25,7 @@ I’m a **Computer & Systems Engineering** enthusiast with a passion for **hardw
 - **Udemy**:  [Verification Series Part 5: UVM RAL Essentials](https://www.udemy.com/certificate/UC-397e9923-e7d0-48e1-8e73-627488e75f4a/)(Completed: 4/2025)
 - **Cousera**: [Arm Cortex-M Processos Overview](https://coursera.org/share/00899a2045a0c120b0bd73f8c660e990)(Completed: 5/2025)
 - **Intel**: [Nios® V Processor Workshop Course Completion](https://www.credly.com/badges/f9c06cd0-7544-452a-b4ec-9177be0363ed/public_url)(Completed: 5/2025)
+- **Intel**: [Using Altera® SoC FPGAs: An Introduction](https://www.credly.com/badges/49908e37-175d-49d0-a5ad-97895ac8f9e8/public_url)(Completed: 5/2025)
   
 I've taken these courses to enhance my expertise in **hardware verification, UVM methodology, and FPGA-based prototyping**. Always eager to learn more and apply these skills to real-world projects! 📚
 
